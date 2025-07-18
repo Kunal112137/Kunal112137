@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Chavhan</h1>
-<h3 align="center">B.Tech in AI & Data Science | Passionate about ML, Web Development & Problem Solving</h3>
+<h3 align="center">B.Tech in AI & Data Science | Passionate about  Web Development & Problem Solving</h3>
 
 - 🎓 **Currently pursuing B.Tech in Artificial Intelligence and Data Science** at Vishwakarma Institute of Technology, Pune  
 - 🧠 I love building projects in  **Full Stack Web Development**

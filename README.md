@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech in AI & Data Science | Passionate about ML, Web Development & Problem Solving</h3>
 
 - 🎓 **Currently pursuing B.Tech in Artificial Intelligence and Data Science** at Vishwakarma Institute of Technology, Pune  
-- 🧠 I love building projects in **Machine Learning** and **Full Stack Web Development**
+- 🧠 I love building projects in  **Full Stack Web Development**
 - 🔍 Exploring Deep Learning, Blockchain, and Real-World AI Applications
 - 💡 Actively solving problems on LeetCode and GeeksforGeeks (200+ problems solved)
 - 🏆 Certified in **Meta Front-End**, **Tableau**, **Python for Data Analysis**, and more

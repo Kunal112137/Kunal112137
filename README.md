@@ -7,23 +7,7 @@
 - 💡 Actively solving problems on LeetCode and GeeksforGeeks (200+ problems solved)
 - 🏆 Certified in **Meta Front-End**, **Tableau**, **Python for Data Analysis**, and more
 
----
-
-## 🚀 Projects
-
-### 🧠 [Brain Tumor Detection](https://github.com/Kunal112137/Brain-Tumor-Detection)
-> A CNN-based system that classifies MRI scans into tumor and non-tumor categories, helping radiologists diagnose faster.
-
-- Built using **Python**, **TensorFlow**, and **OpenCV**
-- High accuracy in early diagnosis of brain tumors using deep learning
-
-### 🛡️ [BlockSure - Insurance Management System](https://github.com/Kunal112137/BlockSure)
-> A full-stack blockchain-based insurance app with CRUD operations for policy data.
-
-- Tech stack: **Node.js**, **Express**, **MongoDB**, **HTML/CSS**
-- User authentication and secure operations built-in
-
----
+--
 
 ## 🛠️ Skills & Tools
 

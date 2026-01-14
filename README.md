@@ -3,19 +3,19 @@
 
 - 🎓 **Currently pursuing B.Tech in Artificial Intelligence and Data Science** at Vishwakarma Institute of Technology, Pune  
 - 🧠 I love building projects in  **Full Stack Web Development**
-- 🔍 Exploring Deep Learning, Blockchain, and Real-World AI Applications
+
 - 💡 Actively solving problems on LeetCode and GeeksforGeeks (200+ problems solved)
-- 🏆 Certified in **Meta Front-End**, **Tableau**, **Python for Data Analysis**, and more
+- 🏆 Certified in **Meta Front-End**
 
 --
 
 ## 🛠️ Skills & Tools
 
 **Languages:**  
-`Python` `Java` `HTML` `CSS` `JavaScript`
+ `Java` `HTML` `CSS` `JavaScript`
 
 **Libraries & Tools:**  
-`Machine Learning` `Power BI` `Tableau` `MongoDB` `Node.js` `Express` `Git/GitHub`
+`Power BI` `Tableau` `MongoDB` `Node.js` `Express` `Git/GitHub`
 
 ---
 
